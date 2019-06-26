@@ -1,4 +1,4 @@
-Step of code detail on the scrip of run_analysis.R file:
+Step of code detail on the script on run_analysis.R file:
 1.Load the library
 2.Set the URL dan file name of data
 3.Checking the file if archieve already exists or our WD 
